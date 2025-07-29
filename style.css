@@ -1,4 +1,9 @@
 body{
-    color: white;
-    background:black;
+    color: rgb(245, 9, 9);   
+    background:rgb(124, 14, 119);
+}
+section { 
+    background: rgb(184,156,213);
+    padding-bottom:80px;
+    padding-top: 80px;
 }
